@@ -261,17 +261,6 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
 
-  <a href="https://learn.microsoft.com/es-es/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> 
-    <img alt="SQL Server Management Studio" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2497?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  </a>
-
-  <a href="https://www.jetbrains.com/es-es/datagrip/" target="_blank"> 
-    <img alt="DataGrip" src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-  </a>
-
-  <a href="https://www.navicat.com/es/" target="_blank"> 
-    <img alt="Navicat" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue"/>
-  </a>
 </p>
 
 
@@ -284,21 +273,21 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
   
 ### 🥅 Others:
 
-<a href="https://trello.com/es" target="_blank"><img alt="Trello" src="https://shields.io/badge/simple__diarizer-Trello-blue?logo=Trello&style=flat"></a>
+<a href="https://trello.com/es" target="_blank"><img alt="Trello" src="https://camo.githubusercontent.com/cace6ff09c862f24ae3ed77b4ef0014faa4e9696e9836a9ca7f07b077d5ebc69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465"></a>
 
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
 
-<a href="https://azure.microsoft.com/es-es/products/devops/server" target="_blank"><img alt="Azure DevOps Server" src="https://img.shields.io/badge/-Azure-fff?style=flat&logo=microsoft-azure"></a>
+<a href="https://azure.microsoft.com/es-es/products/devops/server" target="_blank"><img alt="Azure DevOps Server" src="https://camo.githubusercontent.com/65a2a32964c170e45a3748486b64c3cae8fceda3555e02478a0253126f90e85a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d2532333030373243362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465"></a>
 
 <a href="https://pm2.keymetrics.io/" target="_blank"><img alt="PM2" src="https://a11ybadges.com/badge?logo=pm2"></a>
 
 <a href="https://nginx.org" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"></a>
 
-<a href="https://www.pluralsight.com/" target="_blank"><img alt="Pluralsight" src="https://a11ybadges.com/badge?logo=pluralsight"></a>
+<a href="https://www.pluralsight.com/" target="_blank"><img alt="Pluralsight" src="https://camo.githubusercontent.com/35af0dc52262a0de62a7db6ff55e9b7f486d0ba00499169ca5993ff43ec3a5e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c7572616c73696768742d4545333035373f7374796c653d666f722d7468652d6261646765266c6f676f3d706c7572616c7369676874266c6f676f436f6c6f723d7768697465"></a>
 
 <a href="https://platzi.com/" target="_blank"><img alt="Platzi" src="https://camo.githubusercontent.com/7a76de9ae3c9d95216dabdb9a373d1d115df7db05b9b28809a9a34a576e8d661/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d706c61747a69"></a>
 
-<a href="https://www.udemy.com/es/" target="_blank"><img alt="Udemy" src="https://camo.githubusercontent.com/02e5bf3688bc720584ce8fa31d618d43dab9aca4ff4a2559c1907e7e0602829c/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d7564656d79"></a>
+<a href="https://www.udemy.com/es/" target="_blank"><img alt="Udemy" src="https://camo.githubusercontent.com/8b223324b7327377cd548a2cdaa1a7077cc983920ae43bc4e326bcfae8d4edf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4134333546303f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465"></a>
 
 <br> 
 
