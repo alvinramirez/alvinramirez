@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=alvinramirez&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Alvin <img src=
+<h1 align="center">Hi!,  I'm Alvin Ramirez<img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Competitive+Programmer;ML+Enthusiast;Web+Designer;Web+Developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -302,14 +302,6 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 
 <a href="https://www.udemy.com/es/" target="_blank"><img alt="Udemy" src="https://camo.githubusercontent.com/02e5bf3688bc720584ce8fa31d618d43dab9aca4ff4a2559c1907e7e0602829c/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d7564656d79"></a>
 
-<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-
-<a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-
-
-
 <br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
@@ -321,14 +313,14 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 
 <br>
 
-## <b>💪Quote || Fact</b>
+## <b>💪Quote | Fact</b>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
+#### <p align="center"><b>Thank you for taking the time to read my profile</b></p>
 
 
 -----
