@@ -155,19 +155,28 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 <p align="left">
  <a href="https://bitbucket.org/" target="_blank"> 
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
+ </a>
 
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
+ </a>
  
  <a href="https://about.gitlab.com/" target="_blank"> 
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
-  </a>
+ </a>
   
  <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
+ </a>
+
+ <a href="https://pm2.keymetrics.io/" target="_blank">
+    <img alt="PM2" src="https://a11ybadges.com/badge?logo=pm2">
+ </a>
+
+ <a href="https://nginx.org" target="_blank">
+    <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white">
+ </a>
+ 
 </p>
 
 ### 💾 Databases
@@ -278,10 +287,6 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
 
 <a href="https://azure.microsoft.com/es-es/products/devops/server" target="_blank"><img alt="Azure DevOps Server" src="https://camo.githubusercontent.com/65a2a32964c170e45a3748486b64c3cae8fceda3555e02478a0253126f90e85a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d2532333030373243362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465"></a>
-
-<a href="https://pm2.keymetrics.io/" target="_blank"><img alt="PM2" src="https://a11ybadges.com/badge?logo=pm2"></a>
-
-<a href="https://nginx.org" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"></a>
 
 <a href="https://www.pluralsight.com/" target="_blank"><img alt="Pluralsight" src="https://camo.githubusercontent.com/35af0dc52262a0de62a7db6ff55e9b7f486d0ba00499169ca5993ff43ec3a5e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c7572616c73696768742d4545333035373f7374796c653d666f722d7468652d6261646765266c6f676f3d706c7572616c7369676874266c6f676f436f6c6f723d7768697465"></a>
 
