@@ -84,7 +84,7 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 
 <p align="left">
   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
-    <img alt="C#" src="[https://icons8.com/icon/40669/c%2B%2B](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   </a>
 
   <a href="https://www.cprogramming.com/" target="_blank"> 
