@@ -55,20 +55,20 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 <!-----Social Accounts------>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/alvin-ramirez/">
+ <a href="https://www.linkedin.com/in/alvin-ramirez/" target="_blank">
  
  <img border="0" alt="Alvin's LinkedIn" src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
  </a>
 
- <a href="mailto:alvin.ramirez48@gmail.com">
+ <a href="mailto:alvin.ramirez48@gmail.com" target="_blank">
  <img border="0" alt="Alvin's Mail" src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
  </a>
 
- <a href="https://www.instagram.com/alvinramirez_/">
+ <a href="https://www.instagram.com/alvinramirez_/" target="_blank">
  <img border="0" alt="Alvin's IG" src="https://camo.githubusercontent.com/7f5701ed50f919cf2352cd028b5b2dc974b5e643fe4d78ad826eb9e74551157f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465"/>
  </a>
 
- <a href="https://t.me/aramirezo">
+ <a href="https://t.me/aramirezo" target="_blank">
  <img border="0" alt="Alvin's TG" src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465"/>
  </a>
  
@@ -83,8 +83,8 @@ I am Alvin Ramirez, a tech enthusiast with a passion for software development. C
 ### 📋 Programming languages
 
 <p align="left">
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp"> 
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" target="_blank">
   </a>
 
   <a href="https://www.cprogramming.com/" target="_blank"> 
