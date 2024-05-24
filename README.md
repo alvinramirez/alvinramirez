@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=alvinramirez&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Alvin Ramirez<img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi!,  I'm Alvin Ramirez<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Developer;Competitive+Programmer;Web+Designer;Web+Developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Developer;Competitive+Programmer;Web+Designer;Web+Developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
 </div>
+
 <p align="center" >
- <img  height="180rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
+  <img  height="180rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. Let's create innovative solutions together!
@@ -39,22 +40,20 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 
 - 🌱 Learning about software development and and his best practices.
 
-
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
 
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- 
- 
 <br>
 
 <p align="center">
+
 <!-----Social Accounts------>
 
 <p align="center">
+
  <a href="https://www.linkedin.com/in/alvin-ramirez/" target="_blank">
  
  <img border="0" alt="Alvin's LinkedIn" src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
@@ -74,9 +73,7 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
  
 </p>
 
-
 <br>
-
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -116,9 +113,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   </a>
 </p>
 
-
-
-
 ### 📋 Frontend Development
 
 <p align="left"> 
@@ -138,9 +132,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>
 </p>
-
-
-
 
 ### ☁️ Cloud
 
@@ -200,13 +191,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   </a>
 </p>
 
-
-
-
-
-
-
-
 ### 🎛️ Operating Systems
 
 <p align="left">
@@ -225,12 +209,8 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   <a href="https://ubuntu.com/" target="_blank"> 
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   </a>
-
-  
 </p>
 
-    
-    
 ### 💻 IDEs/Editors
 
 <p align="left"> 
@@ -269,17 +249,8 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
-
 </p>
 
-
-
-    
-    
-
-  
-  
-  
 ### 🥅 Others:
 
 <a href="https://trello.com/es" target="_blank"><img alt="Trello" src="https://camo.githubusercontent.com/cace6ff09c862f24ae3ed77b4ef0014faa4e9696e9836a9ca7f07b077d5ebc69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465"></a>
@@ -298,7 +269,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinramirez&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinramirez&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
@@ -306,6 +276,7 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 <br>
 
 ## <b>💪Quote | Fact</b>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=blank&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
@@ -314,8 +285,7 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 
 #### <p align="center"><b>Thank you for taking the time to read my profile</b></p>
 
-
 -----
 Credits: [Alvin](https://github.com/alvinramirez)
 
-Last Edited on: 07/05/2024
+Last Edited on: 24/05/2024
