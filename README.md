@@ -251,6 +251,8 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   </a>
 </p>
 
+
+<!----- 
 ### 🥅 Others:
 
 <a href="https://trello.com/es" target="_blank"><img alt="Trello" src="https://camo.githubusercontent.com/cace6ff09c862f24ae3ed77b4ef0014faa4e9696e9836a9ca7f07b077d5ebc69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465"></a>
@@ -264,6 +266,7 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 <a href="https://platzi.com/" target="_blank"><img alt="Platzi" src="https://camo.githubusercontent.com/7a76de9ae3c9d95216dabdb9a373d1d115df7db05b9b28809a9a34a576e8d661/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d706c61747a69"></a>
 
 <a href="https://www.udemy.com/es/" target="_blank"><img alt="Udemy" src="https://camo.githubusercontent.com/8b223324b7327377cd548a2cdaa1a7077cc983920ae43bc4e326bcfae8d4edf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4134333546303f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465"></a>
+------>
 
 <br> 
 
