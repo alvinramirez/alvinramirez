@@ -182,10 +182,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   </a>  
   
-  <a href="https://www.sqlite.org/" target="_blank"> 
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
-  </a>
-
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
