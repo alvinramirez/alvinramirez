@@ -275,14 +275,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 
 <br>
 
-## <b>💪Quote | Fact</b>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=blank&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
-
-<br>
-
 #### <p align="center"><b>Thank you for taking the time to read my profile</b></p>
 
 -----
