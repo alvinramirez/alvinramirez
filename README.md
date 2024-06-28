@@ -274,10 +274,4 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinramirez&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
-
-#### <p align="center"><b>Thank you for taking the time to read my profile</b></p>
-
------
-Credits: [Alvin](https://github.com/alvinramirez)
-
-Last Edited on: 31/05/2024
+Last Edited on: 28/06/2024
