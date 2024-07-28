@@ -11,7 +11,7 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 
 <br>
 
-- 🔭 I’m currently studying at 42Madrid and working on a .net core web application project. 😉
+- 🔭 I’m currently working on a .Net Core web application project. 😉
 
 - 👯 I’m looking forward to collaborate on new projects.
 
