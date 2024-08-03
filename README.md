@@ -9,7 +9,6 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. Let's create innovative solutions together!
 
-<br>
 
 - 🔭 I’m currently working on a .Net Core web application project. 😉
 
@@ -18,8 +17,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 - 🌱 Learning about software development and and his best practices.
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-<br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
@@ -139,4 +136,4 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinramirez&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
-Last Edited on: 08/07/2024
+Last Edited on: 08/03/2024
