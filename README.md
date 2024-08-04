@@ -119,9 +119,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   <a href="https://www.centos.org/" target="_blank"> 
    <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
   </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   </a>
