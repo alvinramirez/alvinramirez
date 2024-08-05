@@ -116,11 +116,11 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
   </a>
-  <a href="https://www.centos.org/" target="_blank"> 
-   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
-  </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  </a>
+  <a href="https://www.centos.org/" target="_blank"> 
+   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
   </a>
 </p>
 
@@ -133,4 +133,4 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinramirez&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
-Last Edited on: 08/03/2024
+Last edited on: 08/05/2024
