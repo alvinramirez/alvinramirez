@@ -10,7 +10,7 @@
 I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. Let's create innovative solutions together!
 
 
-- 🔭 I’m currently working on a .Net Core web application project. 😉
+- 🔭 I’m currently studying at 42Madrid and working on a .Net Core web application project. 😉
 
 - 👯 I’m looking forward to collaborate on new projects.
 
