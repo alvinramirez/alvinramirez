@@ -32,11 +32,6 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
  
  <img border="0" alt="Alvin's LinkedIn" src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
  </a>
-
- <a href="mailto:alvin.ramirez48@gmail.com" target="_blank">
- <img border="0" alt="Alvin's Mail" src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
- </a>
- 
 </p>
 
 <br>
@@ -133,4 +128,4 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinramirez&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
-Last edited on: 08/13/2024
+Last edited on: 08/26/2024
