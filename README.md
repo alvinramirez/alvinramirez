@@ -18,13 +18,14 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
+<!-----
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <br>
 
 <p align="center">
 
-<!-----Social Accounts------>
+Social Accounts
 
 <p align="center">
 
@@ -33,7 +34,7 @@ I'm Alvin Ramirez, a tech enthusiast with a passion for software development. Co
  <img border="0" alt="Alvin's LinkedIn" src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
  </a>
 </p>
-
+------>
 <br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
